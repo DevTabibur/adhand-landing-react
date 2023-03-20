@@ -30,7 +30,7 @@ const Campagins = () => {
             </p>
             <Note text="Advertising accounts in USD" />
             <Note text="Payment by any card, except cards of Russian banks" />
-            <Note text="Minimum payment - $30  Recommended - $250" />
+            <Note text="Minimum payment - $30 Recommended - $250" />
           </div>
           <div className="lg:mt-0 mt-14">
             <div className="absolute -right-5 lg:flex hidden top-0 mt-20">
